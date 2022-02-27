@@ -1,0 +1,21 @@
+{
+    "title":"Call on sales",
+    "body":"Call Nils and ask for....",
+    "notes":[{
+        "note":"Made a call, nobody answered.",
+        "at":"2022-02-25T01:12:00",
+        "by":"hakan@seerefine.se"
+    }
+],
+    "created":"2022-02-25T01:12:00",
+    "modified":"2022-02-25T01:12:00",
+    "contact_ways":[
+        {
+            "name":"Workphone",
+            "type": "phone|email|twitch",
+            "value":"070-123456"
+        }
+    ],
+    "state":"todo|doing|done",
+    "assigned":"liban@seerefine.se"
+}
